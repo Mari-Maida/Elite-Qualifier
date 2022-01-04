@@ -128,3 +128,5 @@ while run_game():
   if(run_game()):
     user_mood = check_input()
     chat_responses(user_input, user_mood)
+
+print("")
