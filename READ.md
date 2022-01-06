@@ -10,3 +10,9 @@ This exists so that you can have something to interact with when no human is ava
 It can be accessed though a link to the Replit.
 ## Usage
 The user can hit run on replit to get the program to start.
+
+## Test Plan:
+To test the code:
+
+1. Run the program
+2. See the results
